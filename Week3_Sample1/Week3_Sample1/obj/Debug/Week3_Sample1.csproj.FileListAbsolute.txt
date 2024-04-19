@@ -1,0 +1,13 @@
+C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 3\Week3_Sample1\Week3_Sample1\bin\Debug\Week3_Sample1.exe.config
+C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 3\Week3_Sample1\Week3_Sample1\bin\Debug\Week3_Sample1.exe
+C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 3\Week3_Sample1\Week3_Sample1\bin\Debug\Week3_Sample1.pdb
+C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 3\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.csprojResolveAssemblyReference.cache
+C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 3\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.exe
+C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 3\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.pdb
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\bin\Debug\Week3_Sample1.exe.config
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\bin\Debug\Week3_Sample1.exe
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\bin\Debug\Week3_Sample1.pdb
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.csproj.AssemblyReference.cache
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.csproj.CoreCompileInputs.cache
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.exe
+C:\Users\008022228\Desktop\myprojects\Week3_Sample1\Week3_Sample1\obj\Debug\Week3_Sample1.pdb
