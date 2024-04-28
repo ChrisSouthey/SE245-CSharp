@@ -27,7 +27,7 @@ namespace Week4Activity_Chris
 
                 set
                 {
-                    title = value;
+                    title = value + " " + "poopy";
                 }
             }
 
