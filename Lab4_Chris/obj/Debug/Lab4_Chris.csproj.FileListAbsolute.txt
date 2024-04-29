@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\bin\Debug\Lab4_Chris.exe.config
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\bin\Debug\Lab4_Chris.exe
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\bin\Debug\Lab4_Chris.pdb
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\obj\Debug\Lab4_Chris.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\obj\Debug\Lab4_Chris.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\obj\Debug\Lab4_Chris.exe
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Lab4_Chris\obj\Debug\Lab4_Chris.pdb
