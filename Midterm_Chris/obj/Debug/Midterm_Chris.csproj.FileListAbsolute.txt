@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\bin\Debug\Midterm_Chris.exe.config
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\bin\Debug\Midterm_Chris.exe
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\bin\Debug\Midterm_Chris.pdb
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.exe
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.pdb
+C:\Users\chris\OneDrive\Desktop\SE245-CSharp\Midterm_Chris\obj\Debug\Midterm_Chris.Form1.resources

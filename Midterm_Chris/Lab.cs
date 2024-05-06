@@ -11,7 +11,7 @@ namespace Lab4_Chris
 {
     class Program
     {
-        public struct Person
+        public class Person
         {
             private string fname;
             private string mname;
@@ -20,7 +20,7 @@ namespace Lab4_Chris
             private string street2;
             private string city;
             private string state;
-            private int zip;
+            private string zip;
             private string phone;
             private string email;
 
@@ -34,7 +34,7 @@ namespace Lab4_Chris
                 }
                 set
                 {
-                    fname = value + " Poopy";
+                    fname = value;
                 }
             }
 
@@ -110,7 +110,7 @@ namespace Lab4_Chris
                 }
             }
 
-            public int Zip
+            public string Zip
             {
                 get
                 {
@@ -153,74 +153,8 @@ namespace Lab4_Chris
                 }
             }
 
-            static void Main(string[] args)
-            {
-                bool blnResult = false;
+            public string Feedback { get; internal set; }
 
-                Person temp = new Person();
-
-
-                Console.Write("\nPlease enter First name: ");
-                temp.Fname = Console.ReadLine();
-
-                Console.Write("\nPlease enter Middle name: ");
-                temp.Mname = Console.ReadLine();
-
-                Console.Write("\nPlease enter Last name: ");
-                temp.Lname = Console.ReadLine();
-
-                Console.Write("\nPlease enter Street name (Ex. 12 Park Ave): ");
-                temp.Street1 = Console.ReadLine();
-
-                Console.Write("\nPlease enter apt # or Department name if available (Ex. Apt 4 or IT Dept, None): ");
-                temp.Street2 = Console.ReadLine();
-
-                Console.Write("\nPlease enter City: ");
-                temp.City = Console.ReadLine();
-
-                Console.Write("\nPlease enter State: ");
-                temp.State = Console.ReadLine();
-
-                do
-                {
-                    Console.Write("\nPlease enter Zipcode: ");
-                    int intTempZip;
-                    blnResult = Int32.TryParse(Console.ReadLine(), out intTempZip);
-
-                    if (blnResult == false)
-                    {
-                        Console.Write("\nSorry, Incorrect Zipcode entered. Please try again. (Ex. 10101) ");
-                    }
-                    else
-                    {
-                        temp.Zip = intTempZip;
-                    }
-                } while (blnResult == false);
-
-                Console.Write("\nPlease enter Phone number (Ex. 206-382-0194): ");
-                temp.Phone = Console.ReadLine();
-
-                Console.Write("\nPlease enter Email: ");
-                temp.Email = Console.ReadLine();
-
-
-
-
-                Console.Write($"\n{temp.Fname} {temp.Lname}'s Info:");
-                Console.Write($"\nFirst Name: {temp.Fname}");
-                Console.Write($"\nMiddle Name: {temp.Mname}");
-                Console.Write($"\nLast Name: {temp.Lname}");
-                Console.Write($"\nStreet 1: {temp.Street1}");
-                Console.Write($"\nStreet 2: {temp.Street2}");
-                Console.Write($"\nCity: {temp.City}");
-                Console.Write($"\nState: {temp.State}");
-                Console.Write($"\nZipcode: {temp.Zip}");
-                Console.Write($"\nPhone #: {temp.Phone}");
-                Console.Write($"\nEmail: {temp.Email}");
-
-
-                BasicTools.Pause();
-            } 
         }
     }
 }
